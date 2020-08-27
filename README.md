@@ -13,13 +13,13 @@ public class Example : MonoBehaviour
     private void Update()
     {
         // 通常
-        if ( Input.GetKeyDown(KeyCode.Z) )
+        if ( Input.GetKeyDown( KeyCode.Z ) )
         {
         }
-        if ( Input.GetKey(KeyCode.Z) )
+        if ( Input.GetKey( KeyCode.Z ) )
         {
         }
-        if ( Input.GetKeyUp(KeyCode.Z) )
+        if ( Input.GetKeyUp( KeyCode.Z ) )
         {
         }
 
